@@ -1,7 +1,6 @@
-<p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
-</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <h1 align="center">Hey there! I'm Denilson Riveros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
@@ -22,7 +21,6 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
   ![REACT](https://img.shields.io/badge/React-338dff?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
   ### 🗃 &nbsp;Databases
@@ -35,19 +33,9 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-  ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### <h2>⚙️ Github stats:</h2> 
 
-<p align="center">
-  <a href="https://github.com/YRD-cmd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YRD-cmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/YRD-cmd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YRD-cmd&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
@@ -64,6 +52,8 @@
 
 -----
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 Last Edited on: 03/03/2025
